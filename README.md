@@ -1,5 +1,6 @@
 app.component.html
 
+
 <h1>View child decorator</h1> 
 <input placeholder="Focus on page load" #focusElement/>
 <br>
